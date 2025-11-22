@@ -28,16 +28,16 @@ Curiosity > Everything ⚡
     <tr>
       <td align="center">
         <h4>⚙️ Languages</h4>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank" rel="noopener noreferrer"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" target="_blank" rel="noopener noreferrer"/>
-        <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" target="_blank" rel="noopener noreferrer"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </td>
       <td align="center">
         <h4>🌐 Web Dev</h4>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" rel="noopener noreferrer"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" rel="noopener noreferrer"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" rel="noopener noreferrer"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </td>
     </tr>
   </table>
@@ -50,13 +50,13 @@ Curiosity > Everything ⚡
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=SwapnilPatil28&theme=tokyonight&hide_border=true" target="_blank" rel="noopener noreferrer" width="100%"/>
+        <img src="https://streak-stats.demolab.com?user=SwapnilPatil28&theme=tokyonight&hide_border=true" width="100%"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SwapnilPatil28&show_icons=true&theme=radical&hide_border=true" target="_blank" rel="noopener noreferrer" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SwapnilPatil28&show_icons=true&theme=radical&hide_border=true" width="100%"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilPatil28&layout=compact&theme=radical&hide_border=true" target="_blank" rel="noopener noreferrer" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilPatil28&layout=compact&theme=radical&hide_border=true" width="100%"/>
       </td>
     </tr>
   </table>
@@ -70,10 +70,10 @@ Curiosity > Everything ⚡
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/swapnil-f-patil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://swapnilpatil28.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
