@@ -52,12 +52,6 @@ Curiosity > Everything ⚡
       <td>
         <img src="https://streak-stats.demolab.com?user=SwapnilPatil28&theme=tokyonight&hide_border=true" width="100%"/>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SwapnilPatil28&show_icons=true&theme=radical&hide_border=true" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilPatil28&layout=compact&theme=radical&hide_border=true" width="100%"/>
-      </td>
     </tr>
   </table>
 </div>
