@@ -45,6 +45,41 @@ Curiosity > Everything ⚡
 
 ---
 
+### 🚀 Featured Projects
+*Projects that showcase my ability to build complex, interactive, and fully fleshed-out applications.*
+
+* **[Daily Motivation Dashboard](https://github.com/SwapnilPatil28/Daily-Motivation-Dashboard)** | **Tech Stack:** React 19, Tailwind CSS 4, Vite, REST APIs
+    * **About:** A sleek, fully responsive web app that fetches real-time quotes via API. Features a persistent dark/light mode, a favoriting system using local storage, and real-time search/filtering for saved quotes. 
+    * 🔗 [Live Demo](https://daily-motivation-dashboard.vercel.app/)
+
+* **[Smart Expense Tracker](https://github.com/SwapnilPatil28/SmartExpenseTracker)** | **Tech Stack:** Advanced Vanilla JS, HTML5, CSS3
+    * **About:** A client-side expense manager demonstrating deep DOM manipulation. Includes real-time budget calculations, dynamic UI updates, category filtering, and an automated budget alert system—all built without external frameworks.
+    * 🔗 [Live Demo](https://swapnilpatil28.github.io/SmartExpenseTracker/)
+
+* **[Run For Fun - 2D Platformer](https://github.com/SwapnilPatil28/Run-For-Fun-Game-Dev-Project)** | **Tech Stack:** Godot Engine, GDScript
+    * **About:** A classic-inspired arcade platformer. Engineered custom player movement, obstacle mechanics, and enemy interactions to create a complete, playable game loop. 
+    * 🔗 [Play on Itch.io](https://swapnilpatil28.itch.io/run-for-fun)
+
+* **[Daily Planner App](https://github.com/SwapnilPatil28/TasksManagementApp)** | **Tech Stack:** React, Tailwind CSS, Vite
+    * **About:** A priority-based task management tool featuring full CRUD capabilities, automated sorting, and data persistence to keep users organized seamlessly.
+    * 🔗 [Live Demo](https://tasks-management-app-drab.vercel.app/)
+
+---
+
+### 🌱 Foundational & Mini Projects
+*Smaller builds focusing on core mechanics, UI design, and fundamental programming concepts.*
+
+* **[Personal Developer Portfolio](https://github.com/SwapnilPatil28/Portfolio)** | *HTML, CSS, JS*
+    * My responsive personal corner of the internet featuring interactive project cards, dynamic background gradients, and smooth scroll animations.
+
+* **[Mini Quote Saver](https://github.com/SwapnilPatil28/Mini-Quote-Saver)** | *Vanilla JS*
+    * A lightweight, offline-friendly CRUD application focusing on event delegation and local storage mastery. 
+
+* **[Web Dev Assignments Archive](https://github.com/SwapnilPatil28/Web-Dev-Assignments)** | *HTML, CSS*
+    * A collection of structured mini-projects demonstrating core UI layouts, flexbox, CSS grids, and keyframe animations.
+
+---
+
 ### 🟢 GitHub Stats
 <div align="center">
   <table>
