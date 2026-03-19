@@ -69,14 +69,16 @@ Curiosity > Everything ⚡
 ### 🌱 Foundational & Mini Projects
 *Smaller builds focusing on core mechanics, UI design, and fundamental programming concepts.*
 
-* **[Personal Developer Portfolio](https://github.com/SwapnilPatil28/Portfolio)** | *HTML, CSS, JS*
-    * My responsive personal corner of the internet featuring interactive project cards, dynamic background gradients, and smooth scroll animations.
+* **[Personal Developer Portfolio](https://github.com/SwapnilPatil28/Portfolio)** | **Tech Stack:** HTML, CSS, JS
+    * **About:** My responsive personal corner of the internet featuring interactive project cards, dynamic background gradients, and smooth scroll animations.
+    * 🔗 [Live Demo](https://swapnilpatil28.github.io/Portfolio/)
 
-* **[Mini Quote Saver](https://github.com/SwapnilPatil28/Mini-Quote-Saver)** | *Vanilla JS*
-    * A lightweight, offline-friendly CRUD application focusing on event delegation and local storage mastery. 
+* **[Mini Quote Saver](https://github.com/SwapnilPatil28/Mini-Quote-Saver)** | **Tech Stack:** Vanilla JS
+    * **About:** A lightweight, offline-friendly CRUD application focusing on event delegation and local storage mastery. 
+    * 🔗 [Live Demo](https://swapnilpatil28.github.io/Mini-Quote-Saver/)
 
-* **[Web Dev Assignments Archive](https://github.com/SwapnilPatil28/Web-Dev-Assignments)** | *HTML, CSS*
-    * A collection of structured mini-projects demonstrating core UI layouts, flexbox, CSS grids, and keyframe animations.
+* **[Web Dev Assignments Archive](https://github.com/SwapnilPatil28/Web-Dev-Assignments)** | **Tech Stack:** HTML, CSS
+    * **About:** A collection of structured mini-projects demonstrating core UI layouts, flexbox, CSS grids, and keyframe animations.
 
 ---
 
