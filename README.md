@@ -87,7 +87,13 @@ Curiosity > Everything ⚡
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=SwapnilPatil28&theme=tokyonight&hide_border=true" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SwapnilPatil28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="Swapnil's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=SwapnilPatil28&theme=tokyonight&hide_border=true" height="150" alt="Swapnil's Streak stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwapnilPatil28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Swapnil's top languages" />
       </td>
     </tr>
   </table>
