@@ -51,6 +51,10 @@ Curiosity > Everything ⚡
 ### 🚀 Featured Projects
 *Projects that showcase my ability to build complex, interactive, and fully fleshed-out applications.*
 
+* **[NEO MART E-Commerce App](https://github.com/SwapnilPatil28/E-Commerce-App)** | **Tech Stack:** React 19, Tailwind CSS, Context API, Framer Motion
+    * **About:** A full-featured, Neo-Brutalism styled e-commerce platform. Highlights include advanced global state management for carts and wishlists, debounced real-time search, dynamic filtering, and seamless REST API integration.
+    * 🔗 [Live Demo](https://neo-mart-tau.vercel.app/)
+
 * **[Daily Motivation Dashboard](https://github.com/SwapnilPatil28/Daily-Motivation-Dashboard)** | **Tech Stack:** React 19, Tailwind CSS 4, Vite, REST APIs
     * **About:** A sleek, fully responsive web app that fetches real-time quotes via API. Features a persistent dark/light mode, a favoriting system using local storage, and real-time search/filtering for saved quotes. 
     * 🔗 [Live Demo](https://daily-motivation-dashboard.vercel.app/)
