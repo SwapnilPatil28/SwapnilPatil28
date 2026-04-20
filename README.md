@@ -51,6 +51,10 @@ Curiosity > Everything ⚡
 ### 🚀 Featured Projects
 *Projects that showcase my ability to build complex, interactive, and fully fleshed-out applications.*
 
+* **[SnappyStrike — Hyperlocal ERP & Inventory Platform](https://github.com/SwapnilPatil28/SnappyStrike)** | **Tech Stack:** React (Vite), Tailwind CSS, Firebase (Auth, Firestore), Context API
+    * **About:** A real-world MVP ERP and hyperlocal discovery platform for supermarkets. Features include a camera-based barcode scanning POS system, real-time inventory syncing, location-based product search across nearby stores, and dynamic digital storefronts (`/stores/{username}`) for each seller.
+    * 🔗 [Live Demo](https://snappystrike.vercel.app/)
+
 * **[NEO MART E-Commerce App](https://github.com/SwapnilPatil28/E-Commerce-App)** | **Tech Stack:** React 19, Tailwind CSS, Context API, Framer Motion
     * **About:** A full-featured, Neo-Brutalism styled e-commerce platform. Highlights include advanced global state management for carts and wishlists, debounced real-time search, dynamic filtering, and seamless REST API integration.
     * 🔗 [Live Demo](https://neo-mart-tau.vercel.app/)
